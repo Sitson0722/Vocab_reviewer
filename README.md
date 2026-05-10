@@ -8,16 +8,14 @@
 
 此app支持导入txt格式的词库，格式标准为：
 
-'''
-abandon|/əˈbændən/|v. 放弃，抛弃|The captain gave the order to abandon ship.|船长下达了弃船的命令。
+'''abandon|/əˈbændən/|v. 放弃，抛弃|The captain gave the order to abandon ship.|船长下达了弃船的命令。
 abundant|/əˈbʌndənt/|adj. 大量的，丰盛的|We have abundant evidence to prove his guilt.|我们有充分的证据证明他有罪。
 vague|/veɪɡ/|adj. 模糊的|I have a vague memory of meeting her.|我对见过她这件事只有模糊的记忆。
 '''
 
 示例：
 
-'''
-precise|/prɪˈsaɪz/|adj. 精确的，准确的|The thermometer provides a precise measurement of the temperature.|温度计提供了对温度的精确测量。
+'''precise|/prɪˈsaɪz/|adj. 精确的，准确的|The thermometer provides a precise measurement of the temperature.|温度计提供了对温度的精确测量。
 analyze|/ˈænəlaɪz/|v. 分析|The scientist will analyze the data to find the cause of the error.|科学家将分析数据以找出错误的原因。
 construct|/kənˈstrʌkt/|v. 建造，构建|The workers will construct a new bridge across the river.|工人们将在河上建造一座新桥。
 document|/ˈdɒkjʊmənt/|n. 文件，文档|Please sign this document at the bottom of the page.|请在页面底部签署这份文件。
