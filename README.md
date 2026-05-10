@@ -9,9 +9,7 @@
 此app支持导入txt格式的词库，格式标准为：
 
 ```
-abandon|/əˈbændən/|v. 放弃，抛弃|The captain gave the order to abandon ship.|船长下达了弃船的命令。
-abundant|/əˈbʌndənt/|adj. 大量的，丰盛的|We have abundant evidence to prove his guilt.|我们有充分的证据证明他有罪。
-vague|/veɪɡ/|adj. 模糊的|I have a vague memory of meeting her.|我对见过她这件事只有模糊的记忆。
+单词|音标|释义|例句|例句翻译
 ```
 
 示例：
